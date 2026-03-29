@@ -1,0 +1,5 @@
+{
+  "name": "Porter Stemmer Pro",
+  "description": "A production-ready implementation of the Porter Stemming Algorithm with real-time visualization.",
+  "requestFramePermissions": []
+}
